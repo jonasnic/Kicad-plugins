@@ -1,15 +1,15 @@
 {
-    "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "jonasnic KiCad Addons",
-    "maintainer": {
-        "name": "jonasnic",
-        "contact": {
-            "github": "https://github.com/jonasnic"
-        }
-    },
-    "packages": {
-        "url": "https://raw.githubusercontent.com/jonasnic/Kicad_easyead2kicad_addon/main/metadata.json",
-        "sha256": "c75c3353834dbb1c3bbebc92fb05280277cd46ca6c0c16b59d77b62b15f216d1",
-        "update_timestamp": 1779951521
-    }
+    "$schema":  "https://go.kicad.org/pcm/schemas/v1",
+    "name":  "jonasnic KiCad Addons",
+    "maintainer":  {
+                       "name":  "jonasnic",
+                       "contact":  {
+                                       "github":  "https://github.com/jonasnic"
+                                   }
+                   },
+    "packages":  {
+                     "url":  "https://raw.githubusercontent.com/jonasnic/Kicad_easyead2kicad_addon/main/metadata.json",
+                     "sha256":  "cc4d0e79390dd684c7b49ac0adc43f7d9d994e63e21495e948a57c43ea003cb8",
+                     "update_timestamp":  1779956343
+                 }
 }
