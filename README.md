@@ -11,7 +11,7 @@ A custom **KiCad Plugin and Content Manager (PCM)** repository containing KiCad 
 3. Click **+** (Add) and paste the repository URL:
 
 ```
-https://raw.githubusercontent.com/jonasnic/MyKicadPlugins/main/repository.json
+https://raw.githubusercontent.com/jonasnic/JonasNic-Kicad-plugins/main/repository.json
 ```
 
 4. Click **OK**, then **Refresh**
