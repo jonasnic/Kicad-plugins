@@ -9,7 +9,7 @@
                    },
     "packages":  {
                      "url":  "https://raw.githubusercontent.com/jonasnic/Kicad_easyead2kicad_addon/main/metadata.json",
-                     "sha256":  "e5ffd40d0ce2b64cafe906fee88aef9acaa77f0c9946a779ecdc11703888c6da",
-                     "update_timestamp":  1779962572
+                     "sha256":  "0e7004cb54db873b43366b69f436928382b25858f33a1f2eae88c44fb14047d6",
+                     "update_timestamp":  1779970503
                  }
 }
